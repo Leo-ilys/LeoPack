@@ -1,4 +1,4 @@
-FROM jasem-iq/jmthonbot:alpine
+FROM Leo-ilys/leobot:alpine
 
 #clonning repo 
 RUN git clone https://github.com/jasem-iq/jmthonbot.git /root/userbot
