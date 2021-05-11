@@ -1,7 +1,7 @@
 FROM Leo-ilys/leobot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/jasem-iq/jmthonbot.git /root/userbot
+RUN git clone https://github.com/Leo-ilys/jmthonbot.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
