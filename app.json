@@ -1,13 +1,13 @@
 {
-  "name": "𝗝𝗠𝗧𝗛𝗢𝗡",
-  "description": "Welcome to Arab userbot  - @jmthon",
-  "logo": "https://telegra.ph/file/8c85ff635e3736629c3c2.jpg",
+  "name": "𝐋𝐄𝐎𝐁𝐎𝐓",
+  "description": "Welcome to Leo's userbot  - @QHR_1",
+  "logo": "https://t.me/LEO_DZN/152",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jasem-iq/jm-pack/",
+  "repository": "https://github.com/Leo-ilys/jm-pack/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -62,7 +62,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "@jmthon",
+      "value": "@qhr_1",
       "required": false
     }
   },
