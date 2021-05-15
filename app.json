@@ -46,23 +46,23 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "أتركة فارغ",
+      "description": "تاخذ الكود من الرابط https://dashboard.heroku.com/account",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "أتركة فارغ",
+      "description": "أسم التطبيق اللي خليته اول",
       "value": "",
       "required": false
     },
     "TZ": {
       "description": "موقعك الحالي",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Rabat",
       "required": false
     },
     "UPSTREAM_REPO": {
       "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "@qhr_1",
+      "value": "@QHR_1",
       "required": false
     }
   },
